@@ -1,0 +1,5 @@
+# Brief Introduction About Myself
+
+Hello! I’m Angel, and I’m excited to learn how to use GitHub effectively. I’m currently exploring version control and software development workflows.
+
+This repository serves as my first step into managing projects and tracking changes using GitHub.
